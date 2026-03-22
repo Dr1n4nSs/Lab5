@@ -21,7 +21,7 @@ main :-
         
         write("Максимальный элемент: "), write(MaxVal), nl,
         write("Минимальный элемент: "), write(MinVal), nl,
-        write("Разность : "), write(Diff), nl
+        write("Разность: "), write(Diff), nl
     ;   
         write("Введён пустой список."), nl
     ),
